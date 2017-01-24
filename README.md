@@ -1,2 +1,2 @@
-# portscanner-js
-A little naive JS port scanner able to be drop by XSS
+# XSS tools
+A collection of little XSS payloads for proxify reconnaissance 
